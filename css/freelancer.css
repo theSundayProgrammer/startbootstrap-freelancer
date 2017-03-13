@@ -443,8 +443,7 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-.panel-title a {
-    display: block;
-    padding: 10px 15px;
-    margin: -10px -15px;
+
+.my-content {
+	color: black
 }
